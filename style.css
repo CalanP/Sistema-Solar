@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(175, 126, 221);
+    font-size: 46px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+ul {
+    font-size: 22px;
+    font-family: 'Tajawal', sans-serif;
+}
+
+a {
+    color: #d4c363;
+}
+
+h2 {
+    font-size: 36px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h6 {
+    font-size: 20px;
+    text-align: right;
+    font-family: 'Poppins', sans-serif;
+}
+
+.mercurio {color: rgb(183, 231, 144);}
+
+.venus {color: tomato;}
+
+.tierra {color: rgb(116, 91, 69);}
+
+.marte {color: rgb(155, 243, 255);}
+
+.jupiter {color: rgb(224, 208, 64);}
+
+.saturno {color: rgb(138, 119, 207);}
+
+.urano {color: rgb(247, 157, 227);}
+
+.neptuno {color: rgb(250, 180, 115);}
+
+    
